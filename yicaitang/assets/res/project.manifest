@@ -49,7 +49,7 @@
       "md5": "321d558a85f1df5c953ac38612c4034d"
     }, 
     "res/app.zip": {
-      "md5": "9052241855905677eccd4499be7e4f20"
+      "md5": "0b0df3c3e71e6fd166886c5d0ed4c7b6"
     }, 
     "res/cocos.zip": {
       "md5": "4b14b61016bbd352853c28d34da1b351"
@@ -960,5 +960,5 @@
   "remotePackageUrl": "", 
   "remoteVersionUrl": "http://118.24.69.192:8080/examples/servlets/hotupdate/yicai/maios/yicaitang/assets/res/version.manifest", 
   "searchPaths": [], 
-  "version": "1.6.84"
+  "version": "1.6.85"
 }
