@@ -49,7 +49,7 @@
       "md5": "321d558a85f1df5c953ac38612c4034d"
     }, 
     "res/app.zip": {
-      "md5": "dfebbcc62f43ed9ac6a841b9c01072ca"
+      "md5": "9052241855905677eccd4499be7e4f20"
     }, 
     "res/cocos.zip": {
       "md5": "4b14b61016bbd352853c28d34da1b351"
@@ -274,7 +274,7 @@
       "md5": "5a5de0fe8f041c5afac576229e41e19a"
     }, 
     "res/uistu/MineView.csb": {
-      "md5": "72b7874fa884e2f711ffd6889f7334ec"
+      "md5": "45ac80f411eae394fa88423a199cd717"
     }, 
     "res/uistu/ModifyWord.csb": {
       "md5": "caccaa236289927c20b3f2556ee33767"
@@ -960,5 +960,5 @@
   "remotePackageUrl": "", 
   "remoteVersionUrl": "http://118.24.69.192:8080/examples/servlets/hotupdate/yicai/maios/yicaitang/assets/res/version.manifest", 
   "searchPaths": [], 
-  "version": "1.6.83"
+  "version": "1.6.84"
 }
