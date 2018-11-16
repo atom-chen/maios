@@ -49,16 +49,16 @@
       "md5": "321d558a85f1df5c953ac38612c4034d"
     }, 
     "res/app.zip": {
-      "md5": "0b0df3c3e71e6fd166886c5d0ed4c7b6"
+      "md5": "7bdd69e2f3fb6db0b5f7eb81d787e84c"
     }, 
     "res/cocos.zip": {
       "md5": "4b14b61016bbd352853c28d34da1b351"
     }, 
     "res/kernel.zip": {
-      "md5": "5ad4eabb9d90866d696b1e7207c49333"
+      "md5": "61bf77097a438834d9cd790ecdd84cd3"
     }, 
     "res/laucher.zip": {
-      "md5": "272dec2aa571d3e89d897f0090e04864"
+      "md5": "90671eeb0b40ddb80f891cf06f3324de"
     }, 
     "res/launcher/HotUpdateUI.csb": {
       "md5": "40d55c4aab408b8b1a376c3829dc966c"
@@ -136,7 +136,7 @@
       "md5": "70d53a4938a9597fde236dba21f193d0"
     }, 
     "res/uistu/AgentDesc.csb": {
-      "md5": "d0a56ac87fc4be6b0e498bd756d20b8c"
+      "md5": "07f2cac62476cdc0f1e0b1623f001f94"
     }, 
     "res/uistu/AgentJuniorOpen.csb": {
       "md5": "8cb02de1699ddda525939cfe2ee46482"
@@ -960,5 +960,5 @@
   "remotePackageUrl": "", 
   "remoteVersionUrl": "http://118.24.69.192:8080/examples/servlets/hotupdate/yicai/maios/yicaitang/assets/res/version.manifest", 
   "searchPaths": [], 
-  "version": "1.6.85"
+  "version": "1.6.86"
 }

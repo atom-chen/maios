@@ -49,16 +49,16 @@
       "md5": "321d558a85f1df5c953ac38612c4034d"
     }, 
     "res/app.zip": {
-      "md5": "dfebbcc62f43ed9ac6a841b9c01072ca"
+      "md5": "7bdd69e2f3fb6db0b5f7eb81d787e84c"
     }, 
     "res/cocos.zip": {
       "md5": "4b14b61016bbd352853c28d34da1b351"
     }, 
     "res/kernel.zip": {
-      "md5": "5ad4eabb9d90866d696b1e7207c49333"
+      "md5": "61bf77097a438834d9cd790ecdd84cd3"
     }, 
     "res/laucher.zip": {
-      "md5": "8ff83edf145b80d2debb22bcf36f3fec"
+      "md5": "3404be9e01169c661ff2319a01f1d455"
     }, 
     "res/launcher/HotUpdateUI.csb": {
       "md5": "40d55c4aab408b8b1a376c3829dc966c"
@@ -70,13 +70,13 @@
       "md5": "9fa2342806bd643adb4895853b2fd901"
     }, 
     "res/launcher/first_page.png": {
-      "md5": "c88db49ab14682b61713e448612e9b18"
+      "md5": "983c5b1584962abc6c83f2eb67061659"
     }, 
     "res/launcher/first_page2.png": {
-      "md5": "c88db49ab14682b61713e448612e9b18"
+      "md5": "983c5b1584962abc6c83f2eb67061659"
     }, 
     "res/launcher/logo_title.png": {
-      "md5": "d9a2dd354c0886533b640713dc0917b8"
+      "md5": "37191f8cfe727a3b34a5e5868dd33d46"
     }, 
     "res/launcher/progress_bg.png": {
       "md5": "4cc32a2dd3f825ea1a4653331b8677ab"
@@ -136,7 +136,7 @@
       "md5": "70d53a4938a9597fde236dba21f193d0"
     }, 
     "res/uistu/AgentDesc.csb": {
-      "md5": "d0a56ac87fc4be6b0e498bd756d20b8c"
+      "md5": "07f2cac62476cdc0f1e0b1623f001f94"
     }, 
     "res/uistu/AgentJuniorOpen.csb": {
       "md5": "8cb02de1699ddda525939cfe2ee46482"
@@ -274,7 +274,7 @@
       "md5": "5a5de0fe8f041c5afac576229e41e19a"
     }, 
     "res/uistu/MineView.csb": {
-      "md5": "72b7874fa884e2f711ffd6889f7334ec"
+      "md5": "45ac80f411eae394fa88423a199cd717"
     }, 
     "res/uistu/ModifyWord.csb": {
       "md5": "caccaa236289927c20b3f2556ee33767"
@@ -960,5 +960,5 @@
   "remotePackageUrl": "", 
   "remoteVersionUrl": "http://118.24.69.192:8080/examples/servlets/hotupdate/yicai/maios/zongcai64/assets/res/version.manifest", 
   "searchPaths": [], 
-  "version": "1.6.83"
+  "version": "1.6.85"
 }
