@@ -49,7 +49,7 @@
       "md5": "321d558a85f1df5c953ac38612c4034d"
     }, 
     "res/app.zip": {
-      "md5": "e907134c0be1975952f19889591fecdd"
+      "md5": "963d205d0b7d8e70eea2fa2a3180d003"
     }, 
     "res/cocos.zip": {
       "md5": "4b14b61016bbd352853c28d34da1b351"
@@ -76,7 +76,7 @@
       "md5": "8e85eb18076e245f0ba8eb7a35034473"
     }, 
     "res/launcher/logo_title.png": {
-      "md5": "c30423f04fd14cb8446f5a45984004ac"
+      "md5": "4951fdf26cfaab4d32549d99391b37ea"
     }, 
     "res/launcher/progress_bg.png": {
       "md5": "4cc32a2dd3f825ea1a4653331b8677ab"
@@ -960,5 +960,5 @@
   "remotePackageUrl": "", 
   "remoteVersionUrl": "http://118.24.69.192:8080/examples/servlets/hotupdate/yicai/maios/yicaiw67/assets/res/version.manifest", 
   "searchPaths": [], 
-  "version": "1.6.85"
+  "version": "1.6.88"
 }

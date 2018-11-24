@@ -49,7 +49,7 @@
       "md5": "321d558a85f1df5c953ac38612c4034d"
     }, 
     "res/app.zip": {
-      "md5": "e907134c0be1975952f19889591fecdd"
+      "md5": "963d205d0b7d8e70eea2fa2a3180d003"
     }, 
     "res/cocos.zip": {
       "md5": "4b14b61016bbd352853c28d34da1b351"
@@ -960,5 +960,5 @@
   "remotePackageUrl": "", 
   "remoteVersionUrl": "http://118.24.69.192:8080/examples/servlets/hotupdate/yicai/maios/quanmin/assets/res/version.manifest", 
   "searchPaths": [], 
-  "version": "1.6.85"
+  "version": "1.6.88"
 }
