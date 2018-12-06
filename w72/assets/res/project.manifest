@@ -1,0 +1,964 @@
+{
+  "assets": {
+    "res/Default/Button_Disable.png": {
+      "md5": "d8da5903cf5549137dd7d3ad352792b2"
+    }, 
+    "res/Default/Button_Normal.png": {
+      "md5": "935c276ce167efc9d8b46e38fb2a4bef"
+    }, 
+    "res/Default/Button_Press.png": {
+      "md5": "ddf0ae3873890c7de96b73f732abd41e"
+    }, 
+    "res/Default/CheckBoxNode_Disable.png": {
+      "md5": "81a2eafe157adbc6f50189db87acb16a"
+    }, 
+    "res/Default/CheckBoxNode_Normal.png": {
+      "md5": "6200b45b4d3a8717d67bbd78d19e406f"
+    }, 
+    "res/Default/CheckBox_Disable.png": {
+      "md5": "c880a5ba7e168a0beab1d474bc7c1a09"
+    }, 
+    "res/Default/CheckBox_Normal.png": {
+      "md5": "917215b557949cbf29684f977cb7cb07"
+    }, 
+    "res/Default/CheckBox_Press.png": {
+      "md5": "6325ce5a31f6b65e55697f8d360a7ae6"
+    }, 
+    "res/Default/ImageFile.png": {
+      "md5": "19b5222bae635ebf0972d26fcf077a08"
+    }, 
+    "res/Default/LoadingBarFile.png": {
+      "md5": "6921bafeddbddd9dc3c892220ee16a66"
+    }, 
+    "res/Default/SliderNode_Disable.png": {
+      "md5": "0fd4c36552bc8cf20f6bee407dd17065"
+    }, 
+    "res/Default/Slider_Back.png": {
+      "md5": "ff638cac74a1c5b7076ef54da10cbb36"
+    }, 
+    "res/Default/Slider_PressBar.png": {
+      "md5": "a1fab37cb7965cd30f0b667a7622235f"
+    }, 
+    "res/Default/Sprite.png": {
+      "md5": "f2776786557d7cc7445eea9916da2d84"
+    }, 
+    "res/Default/head_test.png": {
+      "md5": "b4accca36aa6f494173aa9b91004f67a"
+    }, 
+    "res/Default/wx_jpg_ewm.jpg": {
+      "md5": "321d558a85f1df5c953ac38612c4034d"
+    }, 
+    "res/app.zip": {
+      "md5": "ca1257c8fa358ce978fcf2fcfe061995"
+    }, 
+    "res/cocos.zip": {
+      "md5": "4b14b61016bbd352853c28d34da1b351"
+    }, 
+    "res/kernel.zip": {
+      "md5": "e989262032eb7a352e11f1306851ff46"
+    }, 
+    "res/laucher.zip": {
+      "md5": "3defe84a55cc15858e587a4245c30390"
+    }, 
+    "res/launcher/HotUpdateUI.csb": {
+      "md5": "40d55c4aab408b8b1a376c3829dc966c"
+    }, 
+    "res/launcher/MsgBox.csb": {
+      "md5": "b101e99184807657230ac16483d9a721"
+    }, 
+    "res/launcher/bg_popwnd2.png": {
+      "md5": "9fa2342806bd643adb4895853b2fd901"
+    }, 
+    "res/launcher/first_page.png": {
+      "md5": "e3df09df51a4628eae0f768eea6f729d"
+    }, 
+    "res/launcher/first_page2.png": {
+      "md5": "e3df09df51a4628eae0f768eea6f729d"
+    }, 
+    "res/launcher/logo_title.png": {
+      "md5": "94a4cfb491b3093dba4125fd9e5a7cfc"
+    }, 
+    "res/launcher/progress_bg.png": {
+      "md5": "4cc32a2dd3f825ea1a4653331b8677ab"
+    }, 
+    "res/launcher/progress_green.png": {
+      "md5": "d257447337bd5ff49f9540acc5e3a6f5"
+    }, 
+    "res/lib.zip": {
+      "md5": "b62d64260dfd4d51661838198d6a0f75"
+    }, 
+    "res/seqani/saizi.plist": {
+      "md5": "118c8aa8d61be2e7e0d00b12a90e5afc"
+    }, 
+    "res/seqani/saizi.png": {
+      "md5": "5c25cd625ae0a219dad1896e1a0f8aa8"
+    }, 
+    "res/shader/Blur.fsh": {
+      "md5": "fba30b25b74c977dad4ab8955fe73931"
+    }, 
+    "res/shader/Blur_winrt.fsh": {
+      "md5": "05521e85cfc1a03e6b534a03e7452a72"
+    }, 
+    "res/shader/circlStencile.frag": {
+      "md5": "2e423e6cbb6d5932cf08473929b45a15"
+    }, 
+    "res/shader/common.vert": {
+      "md5": "e256ede8106892dad0a2dac0a4329045"
+    }, 
+    "res/uistu/AASkinList.csb": {
+      "md5": "6f4b686b12640c17cfec6b5074c37f1d"
+    }, 
+    "res/uistu/AASkinNormal.csb": {
+      "md5": "0297c32ef2da4a264302341a00578912"
+    }, 
+    "res/uistu/AASkinScroll.csb": {
+      "md5": "38bbe4a2cc8941b89bb65d436a32b541"
+    }, 
+    "res/uistu/AboutView.csb": {
+      "md5": "fbb8cbaa013e72a7722072fd8ded8d3c"
+    }, 
+    "res/uistu/AccountDetail.csb": {
+      "md5": "fb2aa905705abfa63858eba032d397a5"
+    }, 
+    "res/uistu/Activity.csb": {
+      "md5": "7d76cdde213728907cf9e9102c871709"
+    }, 
+    "res/uistu/AgentBetDetail.csb": {
+      "md5": "e7e4d9e3aad5e7cbf2ff71038cea9c50"
+    }, 
+    "res/uistu/AgentBetList.csb": {
+      "md5": "ef9db21a7e62f07bad6b5c9be7c6d968"
+    }, 
+    "res/uistu/AgentDateSelect.csb": {
+      "md5": "318fe948c84aaec4b8a3dd884cb305e6"
+    }, 
+    "res/uistu/AgentDealDetail.csb": {
+      "md5": "70d53a4938a9597fde236dba21f193d0"
+    }, 
+    "res/uistu/AgentDesc.csb": {
+      "md5": "07f2cac62476cdc0f1e0b1623f001f94"
+    }, 
+    "res/uistu/AgentJuniorOpen.csb": {
+      "md5": "8cb02de1699ddda525939cfe2ee46482"
+    }, 
+    "res/uistu/AgentJuniorReport.csb": {
+      "md5": "8da09fff786b5f265d062b0f5f137d2d"
+    }, 
+    "res/uistu/AgentMemberControl.csb": {
+      "md5": "d2b9d5a5933a1b141db345fc23c69d62"
+    }, 
+    "res/uistu/AgentReport.csb": {
+      "md5": "c167fd52f2a7c50dfd0f660fab3854eb"
+    }, 
+    "res/uistu/AgentView.csb": {
+      "md5": "b6df4a72e24e94bf783fe22f402cb58b"
+    }, 
+    "res/uistu/Agreement.csb": {
+      "md5": "a9bf7fa5fca0f9daba7ecdffe84e9763"
+    }, 
+    "res/uistu/AnounceView.csb": {
+      "md5": "953cc53830449277567fafeb3440440d"
+    }, 
+    "res/uistu/AnounceWnd.csb": {
+      "md5": "505f1b08cb676ccf1fe3d2b5de3d5076"
+    }, 
+    "res/uistu/BankBindView.csb": {
+      "md5": "c3c2211ab4b571eedf1f3ded0a16bbac"
+    }, 
+    "res/uistu/BankListView.csb": {
+      "md5": "ff76f46b928f96a6a3609a31d8284b18"
+    }, 
+    "res/uistu/BetBasket.csb": {
+      "md5": "faf75fe166bcfd4d774dc31e97cc9717"
+    }, 
+    "res/uistu/BetBasketK.csb": {
+      "md5": "64353b898f393649081c34c8512b3975"
+    }, 
+    "res/uistu/BetBasketV.csb": {
+      "md5": "59f42220acb85c33e424374bcdad9fc5"
+    }, 
+    "res/uistu/BetDetails.csb": {
+      "md5": "5bdf7654b43c31862f624b71a86c273f"
+    }, 
+    "res/uistu/BetHistory.csb": {
+      "md5": "07fc25d0f6ef1bd9a4a787cc864718c1"
+    }, 
+    "res/uistu/ClickMember.csb": {
+      "md5": "3c05a01e0a7b2f4713147ea06f9b2bde"
+    }, 
+    "res/uistu/CollectView.csb": {
+      "md5": "148c81993783a84ba1ff2dcd732acb51"
+    }, 
+    "res/uistu/ConfirmDlg.csb": {
+      "md5": "887f88e9d275bd0690e7769b3a4cf10b"
+    }, 
+    "res/uistu/ConfirmDlg2.csb": {
+      "md5": "f499a6f744bbc25c46f867578dca34ea"
+    }, 
+    "res/uistu/CountMessage.csb": {
+      "md5": "7255c9016b478a2e70537129e824deaf"
+    }, 
+    "res/uistu/CustomerService.csb": {
+      "md5": "74c859fccf84a87a21892aed5b9f85bb"
+    }, 
+    "res/uistu/DateSelect2.csb": {
+      "md5": "71e00b7f5ec8149095fea19ec5ca8d94"
+    }, 
+    "res/uistu/DateSelectWnd.csb": {
+      "md5": "d58d8cf1bfa0d44e171405e0ccda0d6b"
+    }, 
+    "res/uistu/DayReward.csb": {
+      "md5": "cf44f52791409b4eb009342279173d7d"
+    }, 
+    "res/uistu/FindView.csb": {
+      "md5": "fe6f614094ab46be587db5d27a875182"
+    }, 
+    "res/uistu/ForgetSec.csb": {
+      "md5": "97ab2518a550c49ba0af66bf8682f6ea"
+    }, 
+    "res/uistu/Game11x5.csb": {
+      "md5": "894834f2eed0fa669d07d01eb2279ac6"
+    }, 
+    "res/uistu/GameK3.csb": {
+      "md5": "1b9091e33424332ee41d94dceca8497c"
+    }, 
+    "res/uistu/GameKL10.csb": {
+      "md5": "2b7c8843f1da0949688ba3f54ef25e59"
+    }, 
+    "res/uistu/GameLhc.csb": {
+      "md5": "fe144af5df6ea1c516fc36a2b87d2bb8"
+    }, 
+    "res/uistu/GamePcdd.csb": {
+      "md5": "3791842cccfac8a0548bfe111a0fc3f6"
+    }, 
+    "res/uistu/GamePk10.csb": {
+      "md5": "bb44bde6f5b76fcdfff282befbcc0272"
+    }, 
+    "res/uistu/GameSSC.csb": {
+      "md5": "8b95a7eada209972ad92c88660488953"
+    }, 
+    "res/uistu/GameSelectView.csb": {
+      "md5": "8c7cad90544b9c5ac9394203822ed39a"
+    }, 
+    "res/uistu/GameYb.csb": {
+      "md5": "f4934d9758295f3864b2c7ff4e57a982"
+    }, 
+    "res/uistu/GouCaiView.csb": {
+      "md5": "eece8d2c211238f987a29e68ba7bc641"
+    }, 
+    "res/uistu/HallUI.csb": {
+      "md5": "694aabc58ff5210be2c98a2f06674ce2"
+    }, 
+    "res/uistu/HelpDocView.csb": {
+      "md5": "3c4f5a9ec6e1d3887aa15dcd2a251c27"
+    }, 
+    "res/uistu/HomeView.csb": {
+      "md5": "d803e172df3248df2a42038905b7fde5"
+    }, 
+    "res/uistu/K3History.csb": {
+      "md5": "c22969539b8b0b4335a6a38f6c09a77d"
+    }, 
+    "res/uistu/LoginUI.csb": {
+      "md5": "ff45be40c4a7a85504e8eda4384ebe0b"
+    }, 
+    "res/uistu/LoginUI2.csb": {
+      "md5": "e76c6779e0e9ae4d3d8fa5ca24b91fdf"
+    }, 
+    "res/uistu/LoginUI3.csb": {
+      "md5": "ad691e2df3c36ed6b4eba2e9a779ba10"
+    }, 
+    "res/uistu/LoginUI4.csb": {
+      "md5": "c052968a7baa0bd9bf2f937852cb4994"
+    }, 
+    "res/uistu/LotteryHistory.csb": {
+      "md5": "5a5de0fe8f041c5afac576229e41e19a"
+    }, 
+    "res/uistu/MineView.csb": {
+      "md5": "45ac80f411eae394fa88423a199cd717"
+    }, 
+    "res/uistu/ModifyWord.csb": {
+      "md5": "caccaa236289927c20b3f2556ee33767"
+    }, 
+    "res/uistu/MoneyPwd.csb": {
+      "md5": "60908209e71fc10d4dc42eabe8f67d4f"
+    }, 
+    "res/uistu/MoresWnd.csb": {
+      "md5": "965a983f20b49df47135dc56daab3d3e"
+    }, 
+    "res/uistu/MyInfoView.csb": {
+      "md5": "618cb3da0a94aa9941bd7dd8b04182ee"
+    }, 
+    "res/uistu/PayCenter.csb": {
+      "md5": "bbabe901e62b85e1e4bf8064daa44485"
+    }, 
+    "res/uistu/PlayTypeSelectWnd1.csb": {
+      "md5": "b7b81024654de42bdface3fda9d26fab"
+    }, 
+    "res/uistu/PlayTypeSelectWnd2.csb": {
+      "md5": "6a46525459b2d2a8f68e62a3645096b2"
+    }, 
+    "res/uistu/PlayerInfo.csb": {
+      "md5": "82c72d06f19db7a0b0ef58a889a84e88"
+    }, 
+    "res/uistu/RebateOdds.csb": {
+      "md5": "402bfe4b9619e5e89739208cf087fe5c"
+    }, 
+    "res/uistu/RebatesMessage.csb": {
+      "md5": "9778d33b4dcca3b99742eac74286f027"
+    }, 
+    "res/uistu/RecentView.csb": {
+      "md5": "57a54e8714d3e34e37fe4076f0b38cbd"
+    }, 
+    "res/uistu/Recharge22Commit.csb": {
+      "md5": "2adfe7235409334a0fc3a99df16eaf41"
+    }, 
+    "res/uistu/Recharge22Over.csb": {
+      "md5": "23d5937597e8733a1c02cce5242bf78f"
+    }, 
+    "res/uistu/Recharge22Scan.csb": {
+      "md5": "7594f40edbc35283bf59f509d95d890b"
+    }, 
+    "res/uistu/Recharge22View.csb": {
+      "md5": "d748818fc8a9a3970161e04570cf9bc4"
+    }, 
+    "res/uistu/RechargeCommit.csb": {
+      "md5": "790315b648871a2eddebf463d2107138"
+    }, 
+    "res/uistu/RechargeCommit2.csb": {
+      "md5": "d904ded155f37ecf31dccc3a960fa8c1"
+    }, 
+    "res/uistu/RechargeDetails.csb": {
+      "md5": "24ca91daedf1f5fd7ca7d6b043de7ddc"
+    }, 
+    "res/uistu/RechargeNotice.csb": {
+      "md5": "6b102f5fb46eb1392271427baf7ed43a"
+    }, 
+    "res/uistu/RechargeOver.csb": {
+      "md5": "23d5937597e8733a1c02cce5242bf78f"
+    }, 
+    "res/uistu/RechargeRecharge.csb": {
+      "md5": "32938379b751666bdb2799869b3e37f5"
+    }, 
+    "res/uistu/RechargeRecord.csb": {
+      "md5": "a837753c4011c51bbfccb24daf9053ad"
+    }, 
+    "res/uistu/RechargeScan.csb": {
+      "md5": "95d1be0fb9f51b8ed3aef9a523bd5c9b"
+    }, 
+    "res/uistu/RechargeView.csb": {
+      "md5": "8a7ab2e51e584b92ee76cf92836eb9f1"
+    }, 
+    "res/uistu/RechargeView2.csb": {
+      "md5": "615f2410e423f9ba48bed0d0e1b3f5d6"
+    }, 
+    "res/uistu/RedbagDescUI.csb": {
+      "md5": "58c99e0aa14e0c41add3197548434e6d"
+    }, 
+    "res/uistu/RedbagOpenUI.csb": {
+      "md5": "d1321a8bd13182504030fc5649bc40bd"
+    }, 
+    "res/uistu/RedbagRankUI.csb": {
+      "md5": "e31831edc7ba3d3e571d6ec4068c2b97"
+    }, 
+    "res/uistu/RedbagRecvdUI.csb": {
+      "md5": "1de8c2954f1c7f2ad1d84d7844168c1b"
+    }, 
+    "res/uistu/RegistUI.csb": {
+      "md5": "15cab2bc073c39b03fd9558e3f7fb315"
+    }, 
+    "res/uistu/RegistUI2.csb": {
+      "md5": "de926966862c47d6693c90e6b5da89a4"
+    }, 
+    "res/uistu/RewardInfo.csb": {
+      "md5": "35d30da32ac4515ab3b4cb174820f923"
+    }, 
+    "res/uistu/SafeView.csb": {
+      "md5": "7a627059e9adcdfe98ef1aeb8403d798"
+    }, 
+    "res/uistu/Screening.csb": {
+      "md5": "04cb20d5175c2dd05f06cad20bfdaa02"
+    }, 
+    "res/uistu/ScreeningWnd.csb": {
+      "md5": "41c8a368d7bc2e168531e9291bf8b778"
+    }, 
+    "res/uistu/SelectType.csb": {
+      "md5": "7887d3ba687634ca1d1b9dec1f95d044"
+    }, 
+    "res/uistu/SetterView.csb": {
+      "md5": "676b4814cdef30832f9cb9353a405210"
+    }, 
+    "res/uistu/SexSelectWnd.csb": {
+      "md5": "ea0d7bbd5bbd412f86399871177ba8a5"
+    }, 
+    "res/uistu/TimeSelect.csb": {
+      "md5": "fae6b66127a3c6071f98abedb9a02522"
+    }, 
+    "res/uistu/TodayEarn.csb": {
+      "md5": "6d82c8dd3d0f5bd1b925a6b6ca85c16f"
+    }, 
+    "res/uistu/TrendUI.csb": {
+      "md5": "afc8a3024897a1880532b372a1b494d2"
+    }, 
+    "res/uistu/VipUpgrade.csb": {
+      "md5": "07b66f981d55aa8701d1885dd9788742"
+    }, 
+    "res/uistu/WeiXinBindView.csb": {
+      "md5": "6e689cd8f6d10785d7eb661062974be6"
+    }, 
+    "res/uistu/WithdrawOver.csb": {
+      "md5": "38237473cb9aa51768bce3a8e502a69f"
+    }, 
+    "res/uistu/WithdrawRecord.csb": {
+      "md5": "088ef50de439111df036b5e23559cf2f"
+    }, 
+    "res/uistu/WithdrawSecInput.csb": {
+      "md5": "f0d2a82a319471ad27297bb147976986"
+    }, 
+    "res/uistu/WithdrawView.csb": {
+      "md5": "64c1c1cf40b5d02ee9b27a55ae1bc824"
+    }, 
+    "res/uistu/ZhiFuBaoBindView.csb": {
+      "md5": "5c175acadf32c41dd81c5dce82d1fa67"
+    }, 
+    "res/uistu/bg/account_no_data.png": {
+      "md5": "eb4dbe66364d32c78eb773e1a862e31f"
+    }, 
+    "res/uistu/bg/active-lvkuai.png": {
+      "md5": "a19ba0526f66f66eaba7d078e78bba61"
+    }, 
+    "res/uistu/bg/agentIntro.png": {
+      "md5": "54a149a756364fe02659adaa99dac127"
+    }, 
+    "res/uistu/bg/bank_choose.png": {
+      "md5": "047729e2321908a31de442bf89f67c7e"
+    }, 
+    "res/uistu/bg/banner_proxy.png": {
+      "md5": "4e48a0ba2ecf12b0947458375ffc1f1b"
+    }, 
+    "res/uistu/bg/bg_buy_ticket.png": {
+      "md5": "1b39654bbe8daaf882499ca7f5398fd8"
+    }, 
+    "res/uistu/bg/bg_game_player_info_title.png": {
+      "md5": "5053ac69eb289f6a0ba969b2bac02467"
+    }, 
+    "res/uistu/bg/bg_login_top.png": {
+      "md5": "e81dc09fc0402dbcc7b458b5e084dd41"
+    }, 
+    "res/uistu/bg/bg_maintenance.png": {
+      "md5": "0261e9c5578bc9674b577c38928c0291"
+    }, 
+    "res/uistu/bg/bg_mine.png": {
+      "md5": "0edc29ccb039994819dd29197fbf940d"
+    }, 
+    "res/uistu/bg/bg_profit.png": {
+      "md5": "6e4866f2efa7cb309f742a84c17bee3f"
+    }, 
+    "res/uistu/bg/bg_proxy_commission.png": {
+      "md5": "191607de315caefa11e8ab55e238773b"
+    }, 
+    "res/uistu/bg/bg_white.png": {
+      "md5": "c83623a6455638efb881a49a15c1c44f"
+    }, 
+    "res/uistu/bg/buy_ticket_bg_tian_jia_zhu_dan.png": {
+      "md5": "acc1ec38f2ce73150025f63f99d9e586"
+    }, 
+    "res/uistu/bg/dayawards.png": {
+      "md5": "ed4181ac6d4d4009632c92fdb8a0f0aa"
+    }, 
+    "res/uistu/bg/head.png": {
+      "md5": "3a318115128a8c07b008ab7047082d52"
+    }, 
+    "res/uistu/bg/ic_we_xin_qrcode.png": {
+      "md5": "cbedd1a2cda1be5df2803dc9ea98dd1c"
+    }, 
+    "res/uistu/bg/icon_lottery_wh.png": {
+      "md5": "d987f528368b27b6177eb3a823d4c99b"
+    }, 
+    "res/uistu/bg/incarnate_no_money.png": {
+      "md5": "cbaba7df7cb36c2844077e5eec84506e"
+    }, 
+    "res/uistu/bg/item_bank_selected.png": {
+      "md5": "cae156876e2fc4be72101f8a7541705c"
+    }, 
+    "res/uistu/bg/item_bank_unselected.png": {
+      "md5": "9fa2342806bd643adb4895853b2fd901"
+    }, 
+    "res/uistu/bg/jiajiang-huikuai.png": {
+      "md5": "98d9dc5eea866c328477704a6e5131ff"
+    }, 
+    "res/uistu/bg/level_title.png": {
+      "md5": "606cf691e28b947afe8981b16261ee54"
+    }, 
+    "res/uistu/bg/lucky_moeny_first.png": {
+      "md5": "c3c8dd457e3b2a06c1d09d22dd6ca7b6"
+    }, 
+    "res/uistu/bg/lucky_moeny_second.png": {
+      "md5": "7dfad859f501c671e2f2f4085539ea9f"
+    }, 
+    "res/uistu/bg/lucky_moeny_third.png": {
+      "md5": "0a32d3c512f151bf3417ac1eb3710ece"
+    }, 
+    "res/uistu/bg/no_bank_card.png": {
+      "md5": "f6f45d3c5f584def0de0cf417f418fb4"
+    }, 
+    "res/uistu/bg/person_bg.png": {
+      "md5": "937577b5559c5df92981f43b1c0b53b9"
+    }, 
+    "res/uistu/bg/pink_bg_square.png": {
+      "md5": "0b4d32541ab0bcde0fed591f81eaf114"
+    }, 
+    "res/uistu/bg/pop_account_choose.png": {
+      "md5": "515861c264ce29a2770cedd8e34b9cfa"
+    }, 
+    "res/uistu/bg/promotion.png": {
+      "md5": "3fc82a37018bcc9356432ffdb1fd1ca8"
+    }, 
+    "res/uistu/bg/proxy_center_top_bg.png": {
+      "md5": "082745ae2d8f246ba21b33ab2a2d03f9"
+    }, 
+    "res/uistu/bg/proxy_direction.png": {
+      "md5": "e78374d6c7d8227c71ebe7aa6699d605"
+    }, 
+    "res/uistu/bg/rect_o_1.png": {
+      "md5": "1d8d8201a3d95c6481fe90bf55cce095"
+    }, 
+    "res/uistu/bg/red_bg_square.png": {
+      "md5": "d32ff52f7c1a8d6fe3e24e743a8b4ca2"
+    }, 
+    "res/uistu/bg/reward_vipup.jpg": {
+      "md5": "499818c3fec0361fa15b56cb4db33719"
+    }, 
+    "res/uistu/bg/shadow_bg.png": {
+      "md5": "b4621cf2c1a56fbec245ef9afc52b8d7"
+    }, 
+    "res/uistu/bg/state_half.png": {
+      "md5": "5f50e36e3635ba3377d56d1c67e94ac3"
+    }, 
+    "res/uistu/bg/tellme.png": {
+      "md5": "23326490510ea6ad9e95cbb0956d5a04"
+    }, 
+    "res/uistu/bg/tellme2.png": {
+      "md5": "16b4894398aaf2a36a4f081380518b0f"
+    }, 
+    "res/uistu/bg/unbetted_image.png": {
+      "md5": "d9f6876b755765cce190908bebdafb78"
+    }, 
+    "res/uistu/bg/web_dialog_bg.png": {
+      "md5": "f564fafdf8c7e41e31cb94ca07366230"
+    }, 
+    "res/uistu/bg/xloading_empty.png": {
+      "md5": "7b474ae8bdf57e94475f94bd95428bda"
+    }, 
+    "res/uistu/bg/xloading_error.png": {
+      "md5": "4547958652710e4a3ebabc0c16f40723"
+    }, 
+    "res/uistu/common.plist": {
+      "md5": "affdc9c748a70dd19d00b909cdb59509"
+    }, 
+    "res/uistu/common.png": {
+      "md5": "acaf90e2612a8d5beb346c358470219d"
+    }, 
+    "res/uistu/fonts/daliygold.fnt": {
+      "md5": "006dadd900825c7bd85938666da4ab02"
+    }, 
+    "res/uistu/fonts/daliygold.png": {
+      "md5": "28913fb15e520b5f8289dcd0f423e5e6"
+    }, 
+    "res/uistu/fonts/genzhuziti.fnt": {
+      "md5": "99623545ad38bc732d83703854da2cd7"
+    }, 
+    "res/uistu/fonts/genzhuziti.png": {
+      "md5": "526de565d2cbc6ed6cb2f6666528034c"
+    }, 
+    "res/uistu/fonts/huobiziti.fnt": {
+      "md5": "ba1fb6e92726ead7b27936016b7d4b0b"
+    }, 
+    "res/uistu/fonts/huobiziti.png": {
+      "md5": "1f34098b780c1d989fb951083efc664d"
+    }, 
+    "res/uistu/fonts/jiesuanziti.fnt": {
+      "md5": "61297a265d7f1cb837fdffdb8d97f04d"
+    }, 
+    "res/uistu/fonts/jiesuanziti.png": {
+      "md5": "e43e473520724b197371dc982600663d"
+    }, 
+    "res/uistu/fonts/wryh_arial.ttf": {
+      "md5": "48437988659a6eef3f617c79a2c86dfe"
+    }, 
+    "res/uistu/fonts/zhanjishujia.fnt": {
+      "md5": "2023b2f4a4d4e88e65bd88354157d4a3"
+    }, 
+    "res/uistu/fonts/zhanjishujia.png": {
+      "md5": "2a3aa574dfb56b6dc747a1c6fa0ce9a1"
+    }, 
+    "res/uistu/fonts/zhanjishujian.fnt": {
+      "md5": "af3d8053093fa911e7d458ac92d590b2"
+    }, 
+    "res/uistu/fonts/zhanjishujian.png": {
+      "md5": "3d8718be977c763e693c2eab92d0c98e"
+    }, 
+    "res/uistu/games/baiquan.png": {
+      "md5": "7d1036859a10ec7e5ca5cded56f36495"
+    }, 
+    "res/uistu/games/bg_k3_1.png": {
+      "md5": "059ed9ea43f1c199f9412a7db6815233"
+    }, 
+    "res/uistu/games/bg_k3_2.png": {
+      "md5": "5df6728c31482f9ad979416b648ee756"
+    }, 
+    "res/uistu/games/bg_k3_3.png": {
+      "md5": "de0dd3d53eef638380e9d8dd54c4a398"
+    }, 
+    "res/uistu/games/bg_k3_4.png": {
+      "md5": "322f2d6f17731f34dfb54205fc3a9499"
+    }, 
+    "res/uistu/games/bg_k3_5.png": {
+      "md5": "0ec1b63242b2c9d76d8a001842e99896"
+    }, 
+    "res/uistu/games/bg_k3_6.png": {
+      "md5": "f96443bda23c14bbf29ec48ba86b4d4f"
+    }, 
+    "res/uistu/games/touzi1.png": {
+      "md5": "6fd5bd86006c854137782b9386c24248"
+    }, 
+    "res/uistu/games/touzi2.png": {
+      "md5": "edfec073a0350565a16c6505236415e1"
+    }, 
+    "res/uistu/games/touzi3.png": {
+      "md5": "c1c68f99b414657601607983a22398ba"
+    }, 
+    "res/uistu/games/touzi4.png": {
+      "md5": "3d9d947241e3d4cdb8afc593a24e9889"
+    }, 
+    "res/uistu/games/touzi5.png": {
+      "md5": "6fd5bd86006c854137782b9386c24248"
+    }, 
+    "res/uistu/games/touzi6.png": {
+      "md5": "3d9d947241e3d4cdb8afc593a24e9889"
+    }, 
+    "res/uistu/games/yuan.png": {
+      "md5": "26ff4fb5238079b3186d86c8658de7a0"
+    }, 
+    "res/uistu/gmUI.csb": {
+      "md5": "25ebb925a15f3b1c75354d4805ef6d06"
+    }, 
+    "res/uistu/icon/icon_11x5.png": {
+      "md5": "44d5d20525d10a004ec46a541c1675cb"
+    }, 
+    "res/uistu/icon/icon_11x5_1.png": {
+      "md5": "ed51131cc7e830cd19498d9610909e63"
+    }, 
+    "res/uistu/icon/icon_add.png": {
+      "md5": "5373629858c9398520589e4a393d5f72"
+    }, 
+    "res/uistu/icon/icon_k3.png": {
+      "md5": "7c8d5aceb904577a9add636315f6e08e"
+    }, 
+    "res/uistu/icon/icon_k3_1.png": {
+      "md5": "31cab22b763ba8524e9d26191ce4eafa"
+    }, 
+    "res/uistu/icon/icon_kl10.png": {
+      "md5": "2313651260a07443b04c08db22691ca1"
+    }, 
+    "res/uistu/icon/icon_kl10_1.png": {
+      "md5": "c40ff29856f5c1ee4f728e570e139416"
+    }, 
+    "res/uistu/icon/icon_lhc.png": {
+      "md5": "b71f50734990c9e44678af7cbf66e9ed"
+    }, 
+    "res/uistu/icon/icon_lhc_1.png": {
+      "md5": "606393f1a322f0213d388cf661344891"
+    }, 
+    "res/uistu/icon/icon_more.png": {
+      "md5": "276f204a29f3c97e65b9d33942bde6d8"
+    }, 
+    "res/uistu/icon/icon_more_1.png": {
+      "md5": "22092926806cba598cba123c20ed1f69"
+    }, 
+    "res/uistu/icon/icon_pcdd.png": {
+      "md5": "2235ad51e32ea12ac198a4c94e3da824"
+    }, 
+    "res/uistu/icon/icon_pcdd_1.png": {
+      "md5": "71ee46124fe967b149c34ec62e047a7b"
+    }, 
+    "res/uistu/icon/icon_pk10.png": {
+      "md5": "27afdf0841a7956e7a58359a3302d6c2"
+    }, 
+    "res/uistu/icon/icon_pk10_1.png": {
+      "md5": "b310953f2c9aef2fb429beff4bbc5644"
+    }, 
+    "res/uistu/icon/icon_ssc.png": {
+      "md5": "d10e7b946f47ee74f67886e4ad4cb2b4"
+    }, 
+    "res/uistu/icon/icon_ssc_1.png": {
+      "md5": "64457d9ddc11f641f3405b9045ce351f"
+    }, 
+    "res/uistu/icon/icon_sx.png": {
+      "md5": "ed5f1d56b6ba5592fac898fe7390394f"
+    }, 
+    "res/uistu/icon/icon_sx_1.png": {
+      "md5": "193d0b71c8c47e93a0386de161705fed"
+    }, 
+    "res/uistu/icon/icon_yb.png": {
+      "md5": "cbe6bca9672c49ce29b70bbcd7d8ec11"
+    }, 
+    "res/uistu/icon/icon_yb_1.png": {
+      "md5": "b9aca4efbca42db4e1b4d892033b42b6"
+    }, 
+    "res/uistu/item.csb": {
+      "md5": "2d6bff51b993f799574593b74b5f660b"
+    }, 
+    "res/uistu/menus.plist": {
+      "md5": "a606a342d36e8d5580fbfd1b82f27969"
+    }, 
+    "res/uistu/menus.png": {
+      "md5": "98f3f28743f8881239c09ff21bf14892"
+    }, 
+    "res/uistu/others/btn_more.png": {
+      "md5": "5a77a71763b4777d0cc693ec4c69c41a"
+    }, 
+    "res/uistu/others/defaule_head.png": {
+      "md5": "2347bc9e63e0ff1f52a2937ba091e212"
+    }, 
+    "res/uistu/others/default01.jpg": {
+      "md5": "80607a3de8bbe4d47808c86d21068053"
+    }, 
+    "res/uistu/others/favorable.png": {
+      "md5": "a3417de5e9faf60a272f89a5dabbbca0"
+    }, 
+    "res/uistu/others/ic_bg_k3.png": {
+      "md5": "3d9d947241e3d4cdb8afc593a24e9889"
+    }, 
+    "res/uistu/others/icon_friends.png": {
+      "md5": "361e19b94e23966398c66545621fa24b"
+    }, 
+    "res/uistu/others/icon_qq.png": {
+      "md5": "2f4b09a60e5e7409a977530a41aa0c8d"
+    }, 
+    "res/uistu/others/icon_qzone.png": {
+      "md5": "23247d97850ecce74b34ad4b1b92fb2a"
+    }, 
+    "res/uistu/others/icon_wx.png": {
+      "md5": "993ba493849d6e93c2257b7784f518ae"
+    }, 
+    "res/uistu/others/img_logo.png": {
+      "md5": "a560cc377d838abfe494aea2e6f6fe6a"
+    }, 
+    "res/uistu/others/line.png": {
+      "md5": "2bf62b21fe90f652b9897c1020bbe125"
+    }, 
+    "res/uistu/others/loading.png": {
+      "md5": "a183fa14b7448d19ac7bfc2675707224"
+    }, 
+    "res/uistu/others/loading2.png": {
+      "md5": "382a59b133010c8b0b17320615df5592"
+    }, 
+    "res/uistu/others/loadingIcon.png": {
+      "md5": "2822896e5dbf55560d52d6748b139053"
+    }, 
+    "res/uistu/others/mine_icon_avatar.png": {
+      "md5": "919a9264b05dc3fcd0c6e17720ae33f7"
+    }, 
+    "res/uistu/others/newest_notice.png": {
+      "md5": "333bdaf0ce6cf1389f9454a567a78a99"
+    }, 
+    "res/uistu/others/qq_server.png": {
+      "md5": "b621b3b3a2e748afb264c73ec54367e2"
+    }, 
+    "res/uistu/others/qq_service.png": {
+      "md5": "1f26a64036e5b3cdd9ad0f86c50d8ca0"
+    }, 
+    "res/uistu/others/share.png": {
+      "md5": "41f44875a0bd636023f53f417d474e81"
+    }, 
+    "res/uistu/others/share_friend.png": {
+      "md5": "6b5c4188abd6571f40234f629c9063ce"
+    }, 
+    "res/uistu/others/state_half.png": {
+      "md5": "5f50e36e3635ba3377d56d1c67e94ac3"
+    }, 
+    "res/uistu/others/surprise.png": {
+      "md5": "86810a2bd6ff4232cc3f3cb0dea4be50"
+    }, 
+    "res/uistu/others/test1.png": {
+      "md5": "a2687406903201d54420a9946bbc5ab1"
+    }, 
+    "res/uistu/others/touxiang.png": {
+      "md5": "3c9af50e8fe2e7fc267fc0958a36cdba"
+    }, 
+    "res/uistu/others/vip_title.png": {
+      "md5": "b016cf4fbb9c197f6fb98efd75faf7f2"
+    }, 
+    "res/uistu/wnds/Notice.png": {
+      "md5": "8f65f16334156b2071159b039f3cd346"
+    }, 
+    "res/uistu/wnds/activity.png": {
+      "md5": "cccb1c8ced8e78f116583d727cf38e8b"
+    }, 
+    "res/uistu/wnds/bank.png": {
+      "md5": "f8e5cde1fc7563d41290122de7f51691"
+    }, 
+    "res/uistu/wnds/bethistory.png": {
+      "md5": "48b97919024542663f16d1ee2d8ea866"
+    }, 
+    "res/uistu/wnds/btn1.png": {
+      "md5": "9fc037e51c8903b011dbd0fdbd66166a"
+    }, 
+    "res/uistu/wnds/btn1_s.png": {
+      "md5": "903f897a436b702829c305f4e7df3dd2"
+    }, 
+    "res/uistu/wnds/btn2.png": {
+      "md5": "d47828fb635afd167569d7bc2c6f6ffd"
+    }, 
+    "res/uistu/wnds/buy.png": {
+      "md5": "7dfdd6d45ca1d4e1c8905f99c2c30dad"
+    }, 
+    "res/uistu/wnds/chongzhi.png": {
+      "md5": "d625b171de19a62ed8589839667f31ef"
+    }, 
+    "res/uistu/wnds/collect.png": {
+      "md5": "83a6a100568265f5d764973f24677b85"
+    }, 
+    "res/uistu/wnds/customer.png": {
+      "md5": "ca157407ee56d79f2d2199cbfbd27875"
+    }, 
+    "res/uistu/wnds/daili.png": {
+      "md5": "9402d8dbbb6a640520550fe02113a424"
+    }, 
+    "res/uistu/wnds/default0.png": {
+      "md5": "29b00cd0e181a9ff4b2092150d46c8be"
+    }, 
+    "res/uistu/wnds/default1.png": {
+      "md5": "80607a3de8bbe4d47808c86d21068053"
+    }, 
+    "res/uistu/wnds/default2.png": {
+      "md5": "c247a740aef2aecdcc03203c01d54906"
+    }, 
+    "res/uistu/wnds/default3.png": {
+      "md5": "d38aa2e453964a99279194c25aa0cfe6"
+    }, 
+    "res/uistu/wnds/default4.png": {
+      "md5": "037326168d4a5dbb5bbf0523a47aea08"
+    }, 
+    "res/uistu/wnds/default5.png": {
+      "md5": "094a7943963b367a05fa4321ef14ea4f"
+    }, 
+    "res/uistu/wnds/default6.png": {
+      "md5": "e0740ead3ab4db9dda60faaab76049a2"
+    }, 
+    "res/uistu/wnds/default7.png": {
+      "md5": "520b0e2f75219700bb381ea35f2f5605"
+    }, 
+    "res/uistu/wnds/default8.png": {
+      "md5": "184ab564cbc8b47ce20d7b5c4e002188"
+    }, 
+    "res/uistu/wnds/default9.png": {
+      "md5": "58b98dc1d2c0f7fa80cf3c58f619949c"
+    }, 
+    "res/uistu/wnds/detail.png": {
+      "md5": "4bde103304c37700f1886cf8a0d3d63b"
+    }, 
+    "res/uistu/wnds/eve_close.png": {
+      "md5": "7fd2449fa58f98ec5a813d31556caa5f"
+    }, 
+    "res/uistu/wnds/eyeclose.png": {
+      "md5": "adc9e25a35ecac9a2f61d6e2e7a539c1"
+    }, 
+    "res/uistu/wnds/eyeopen.png": {
+      "md5": "446d5a84cfdacf0f9ca9b2e5799e4cbf"
+    }, 
+    "res/uistu/wnds/fill_1.png": {
+      "md5": "563257039585957dd3fda66543133cf3"
+    }, 
+    "res/uistu/wnds/fill_2.png": {
+      "md5": "91ae641829c3ff5f41141df02ca28619"
+    }, 
+    "res/uistu/wnds/fill_3.png": {
+      "md5": "ffb91db2c9d6064a99520037cb1ee842"
+    }, 
+    "res/uistu/wnds/fill_4.png": {
+      "md5": "ce23281ba1fd68fd93462b46edb7c07c"
+    }, 
+    "res/uistu/wnds/find.png": {
+      "md5": "7bea3a77163bccf07a854aab311a5e6d"
+    }, 
+    "res/uistu/wnds/hall.png": {
+      "md5": "a10203208234fbaaca08449be32fc7f5"
+    }, 
+    "res/uistu/wnds/hongbao.png": {
+      "md5": "62c83ead85220d05a517f65cf9683468"
+    }, 
+    "res/uistu/wnds/line.png": {
+      "md5": "2bf62b21fe90f652b9897c1020bbe125"
+    }, 
+    "res/uistu/wnds/message.png": {
+      "md5": "33e3698f90dc033062a7d1f65b2ab47d"
+    }, 
+    "res/uistu/wnds/other.png": {
+      "md5": "57690478e642f28d19f267cb5e0b1328"
+    }, 
+    "res/uistu/wnds/personal.png": {
+      "md5": "020cff708bdfc23c6a82998849c8e719"
+    }, 
+    "res/uistu/wnds/personalmess.png": {
+      "md5": "b1c0130fbcee2af3a5ef21e5b0ba95ae"
+    }, 
+    "res/uistu/wnds/quicktx.png": {
+      "md5": "0f38633dc6cfffc099e052b6077842be"
+    }, 
+    "res/uistu/wnds/record.png": {
+      "md5": "93cbcea4cc355b14b97aaf91909cdcf8"
+    }, 
+    "res/uistu/wnds/safe.png": {
+      "md5": "ba8c6193b8c5c4ced12489eebecd4410"
+    }, 
+    "res/uistu/wnds/set.png": {
+      "md5": "45ea3a811485f5e6482f877e3d6e3d34"
+    }, 
+    "res/uistu/wnds/tixian.png": {
+      "md5": "23bd48b26429f11cf14d9a247d2b8c85"
+    }, 
+    "res/uistu/wnds/tixian_jl.png": {
+      "md5": "82b032a351d866c061190fd44197299f"
+    }, 
+    "res/uistu/wnds/unionpay.png": {
+      "md5": "cb0b3c293cae9b5bc5eda0e30fe74233"
+    }, 
+    "res/uistu/wnds/wawa.png": {
+      "md5": "adba2e029912358c498a7e482815dcb5"
+    }, 
+    "res/uistu/wnds/wx.png": {
+      "md5": "c87d2000dd0a47591472b06d91a9fc4b"
+    }, 
+    "res/uistu/wnds/xiaojt.png": {
+      "md5": "7282aaab3ecb8a913075bf8ed0adfe9f"
+    }, 
+    "res/uistu/wnds/yingkui.png": {
+      "md5": "90f643b1a0091e3e49129a33ff2896be"
+    }, 
+    "res/uistu/wnds/yqm.png": {
+      "md5": "e318814c173d14bb51b72894d1f205bf"
+    }, 
+    "res/uistu/wnds/yzmic.png": {
+      "md5": "0acb3ce07f78dd65e70a1d9c63610ea4"
+    }, 
+    "res/uistu/wnds/zfb.png": {
+      "md5": "f879e3c8eab27632b97e0de96680e586"
+    }
+  }, 
+  "engineVersion": "cocos2d-x-3.14.1", 
+  "isForceUpdate": true, 
+  "loadChunkZips": [
+    "res/laucher.zip", 
+    "res/cocos.zip", 
+    "res/lib.zip", 
+    "res/kernel.zip", 
+    "res/app.zip"
+  ], 
+  "packageUrl": "http://118.24.69.192:8080/examples/servlets/hotupdate/yicai/maios/w72/assets", 
+  "remoteManifestUrl": "http://118.24.69.192:8080/examples/servlets/hotupdate/yicai/maios/w72/assets/res/project.manifest", 
+  "remotePackageUrl": "", 
+  "remoteVersionUrl": "http://118.24.69.192:8080/examples/servlets/hotupdate/yicai/maios/w72/assets/res/version.manifest", 
+  "searchPaths": [], 
+  "version": "1.6.89"
+}
