@@ -1,0 +1,18 @@
+{
+  "packageUrl": "http://118.24.69.192:8080/examples/servlets/hotupdate/yicai/maios/w61/assets", 
+  "searchPaths": [], 
+  "version": "1.6.91", 
+  "remoteVersionUrl": "http://118.24.69.192:8080/examples/servlets/hotupdate/yicai/maios/w61/assets/res/version.manifest", 
+  "remotePackageUrl": "", 
+  "isForceUpdate": true, 
+  "loadChunkZips": [
+    "res/laucher.zip", 
+    "res/cocos.zip", 
+    "res/lib.zip", 
+    "res/kernel.zip", 
+    "res/app.zip"
+  ], 
+  "engineVersion": "cocos2d-x-3.14.1", 
+  "remoteManifestUrl": "http://118.24.69.192:8080/examples/servlets/hotupdate/yicai/maios/w61/assets/res/project.manifest", 
+  "assets": {}
+}
