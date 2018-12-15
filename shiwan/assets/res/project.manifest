@@ -55,7 +55,7 @@
       "md5": "4b14b61016bbd352853c28d34da1b351"
     }, 
     "res/kernel.zip": {
-      "md5": "e989262032eb7a352e11f1306851ff46"
+      "md5": "e09678703fae29eff4d9df237c805e25"
     }, 
     "res/laucher.zip": {
       "md5": "cca4e7dcd9cbae5fe7122509a3e363f5"
@@ -70,13 +70,13 @@
       "md5": "9fa2342806bd643adb4895853b2fd901"
     }, 
     "res/launcher/first_page.png": {
-      "md5": "e3df09df51a4628eae0f768eea6f729d"
+      "md5": "e4e674c6364b9ca7c742414738773cc5"
     }, 
     "res/launcher/first_page2.png": {
-      "md5": "e3df09df51a4628eae0f768eea6f729d"
+      "md5": "e4e674c6364b9ca7c742414738773cc5"
     }, 
     "res/launcher/logo_title.png": {
-      "md5": "94a4cfb491b3093dba4125fd9e5a7cfc"
+      "md5": "a560cc377d838abfe494aea2e6f6fe6a"
     }, 
     "res/launcher/progress_bg.png": {
       "md5": "4cc32a2dd3f825ea1a4653331b8677ab"
@@ -960,5 +960,5 @@
   "remotePackageUrl": "", 
   "remoteVersionUrl": "http://118.24.69.192:8080/examples/servlets/hotupdate/yicai/maios/shiwan/assets/res/version.manifest", 
   "searchPaths": [], 
-  "version": "1.6.88"
+  "version": "1.6.92"
 }
