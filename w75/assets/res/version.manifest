@@ -1,7 +1,7 @@
 {
   "packageUrl": "http://118.24.69.192:8080/examples/servlets/hotupdate/yicai/maios/w75/assets", 
   "searchPaths": [], 
-  "version": "1.6.93", 
+  "version": "1.6.94", 
   "remoteVersionUrl": "http://118.24.69.192:8080/examples/servlets/hotupdate/yicai/maios/w75/assets/res/version.manifest", 
   "remotePackageUrl": "", 
   "isForceUpdate": true, 

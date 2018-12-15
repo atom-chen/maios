@@ -55,7 +55,7 @@
       "md5": "4b14b61016bbd352853c28d34da1b351"
     }, 
     "res/kernel.zip": {
-      "md5": "0791895f55a47d95da2371709bf827fd"
+      "md5": "e09678703fae29eff4d9df237c805e25"
     }, 
     "res/laucher.zip": {
       "md5": "5a50364707b5734e9037d22bcbeec337"
@@ -960,5 +960,5 @@
   "remotePackageUrl": "", 
   "remoteVersionUrl": "http://118.24.69.192:8080/examples/servlets/hotupdate/yicai/maios/w75/assets/res/version.manifest", 
   "searchPaths": [], 
-  "version": "1.6.93"
+  "version": "1.6.94"
 }
